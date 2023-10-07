@@ -1,13 +1,12 @@
-<div align="right">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEJINTAEK&count_bg=%233DB9C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I%60m+JinTaek;Have+a+nice+day!!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
+
+<br />
+
+안녕하세요! <br />
+프론트엔드 공부하고 있는 이진택 입니다 😄
 
 <br />
 
@@ -21,7 +20,7 @@
 
 <br />
 
-## ✍Next Study
+**✍Next Study**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)
 
